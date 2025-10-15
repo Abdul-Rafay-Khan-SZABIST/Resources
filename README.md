@@ -17,3 +17,8 @@
 4. Linux Basic Playlist by Caleb Curry
    
    https://youtube.com/playlist?list=PL_c9BZzLwBRKNJSxrcYQld-3qLQfVMvvP&si=xXNS0v-q9ZPLORm7
+
+
+5. Good Website to learn syntax for any language (very useful for quick refresh)
+
+   https://learnxinyminutes.com/
